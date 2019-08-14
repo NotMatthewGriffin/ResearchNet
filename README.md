@@ -7,7 +7,6 @@ In order to run the software without the Docker container you will need the foll
 * numpy
 * opencv (cv2)
 * pytorch
-* torchvision
 
 # Running the software
 To run the software, navigate to the directory where the code is located and run the following command:
